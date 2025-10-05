@@ -36,7 +36,7 @@ export function Header() {
         </nav>
         <div className="flex flex-1 items-center justify-end space-x-4">
           <Button asChild className="hidden md:flex bg-secondary text-secondary-foreground hover:bg-secondary/90">
-            <a href="#contact">Contato</a>
+            <a href="#contact">Fale Conosco</a>
           </Button>
           <button
             className="md:hidden"
@@ -56,7 +56,7 @@ export function Header() {
         >
           <div className="relative z-20 grid gap-6 rounded-md bg-popover p-4 text-popover-foreground shadow-md">
             <nav className="grid grid-flow-row auto-rows-max text-sm">
-              {[...navLinks, { href: "#contact", label: "Contato" }].map((link) => (
+              {[...navLinks, { href: "#contact", label: "Fale Conosco" }].map((link) => (
                 <Link
                   key={link.href}
                   href={link.href}
