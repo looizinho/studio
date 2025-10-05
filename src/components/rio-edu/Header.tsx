@@ -10,7 +10,7 @@ const navLinks = [
   { href: "#services", label: "Serviços" },
   { href: "#about", label: "Sobre Nós" },
   { href: "#testimonials", label: "Depoimentos" },
-  { href: "#ai-tool", label: "Ferramenta AI" },
+  { href: "#ai-tool", label: <b>Ferramenta AI</b> },
 ];
 
 export function Header() {
