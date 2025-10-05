@@ -9,10 +9,10 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-2">
             <BookMarked className="h-6 w-6 text-primary" />
-            <span className="font-bold font-headline">RioEduConnect</span>
+            <span className="font-bold font-headline">help</span>
           </div>
           <p className="text-sm text-muted-foreground mt-4 md:mt-0">
-            &copy; {currentYear} RioEduConnect. Todos os direitos reservados.
+            &copy; {currentYear} help. Todos os direitos reservados.
           </p>
         </div>
       </div>

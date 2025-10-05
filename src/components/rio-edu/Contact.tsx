@@ -67,7 +67,7 @@ export function Contact() {
                 ) : (
                   <Send className="mr-2 h-4 w-4" />
                 )}
-                {isPending ? "Enviando..." : "Enviar Mensagem"}
+                {isPending ? "Enviando..." : "Fale Conosco"}
               </Button>
             </form>
           </CardContent>

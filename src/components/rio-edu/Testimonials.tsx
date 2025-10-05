@@ -15,7 +15,7 @@ const testimonials = [
     name: "Ana Costa",
     title: "Diretora, Escola Aprender Mais",
     avatarId: "testimonial-avatar-1",
-    text: "O trabalho da RioEduConnect transformou nossa escola. A nova identidade visual não só embelezou o ambiente, como também melhorou a organização e a comunicação com os pais. Ganhamos muito tempo!",
+    text: "O trabalho da help transformou nossa escola. A nova identidade visual não só embelezou o ambiente, como também melhorou a organização e a comunicação com os pais. Ganhamos muito tempo!",
   },
   {
     name: "Marcos Vianna",

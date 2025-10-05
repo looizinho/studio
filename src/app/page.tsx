@@ -1,11 +1,11 @@
-import { Header } from "@/components/rio-edu/Header";
-import { Hero } from "@/components/rio-edu/Hero";
-import { Services } from "@/components/rio-edu/Services";
-import { About } from "@/components/rio-edu/About";
-import { Testimonials } from "@/components/rio-edu/Testimonials";
-import { AIContentTool } from "@/components/rio-edu/AIContentTool";
-import { Contact } from "@/components/rio-edu/Contact";
-import { Footer } from "@/components/rio-edu/Footer";
+import { Header } from "@/components/help/Header";
+import { Hero } from "@/components/help/Hero";
+import { Services } from "@/components/help/Services";
+import { About } from "@/components/help/About";
+import { Testimonials } from "@/components/help/Testimonials";
+import { AIContentTool } from "@/components/help/AIContentTool";
+import { Contact } from "@/components/help/Contact";
+import { Footer } from "@/components/help/Footer";
 
 export default function Home() {
   return (

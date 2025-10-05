@@ -12,7 +12,7 @@ export function About() {
           <div className="order-2 md:order-1">
             <h2 className="font-headline text-3xl md:text-4xl font-bold">Nossa Missão é Conectar e Inspirar</h2>
             <p className="mt-4 text-lg text-muted-foreground">
-              Na RioEduConnect, acreditamos que um ambiente escolar visualmente estimulante é fundamental para o aprendizado e desenvolvimento. Nossa missão é transformar escolas em espaços que inspiram alunos, professores e toda a comunidade.
+              Na help, acreditamos que um ambiente escolar visualmente estimulante é fundamental para o aprendizado e desenvolvimento. Nossa missão é transformar escolas em espaços que inspiram alunos, professores e toda a comunidade.
             </p>
             <ul className="mt-6 space-y-4">
               <li className="flex items-start">
