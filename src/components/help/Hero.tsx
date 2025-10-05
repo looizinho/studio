@@ -20,7 +20,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-black/50" />
       <div className="relative z-10 container mx-auto text-center px-4">
         <h1 className="font-headline text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-          MUDAR ISSO
+          ./help_design
         </h1>
         <p className="mt-4 max-w-3xl mx-auto text-lg md:text-xl text-primary-foreground/80">
           Soluções criativas e eficientes para destacar a identidade da sua escola no Rio de Janeiro.
