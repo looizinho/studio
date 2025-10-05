@@ -9,8 +9,8 @@ import { cn } from "@/lib/utils";
 const navLinks = [
   { href: "#services", label: "Serviços" },
   { href: "#about", label: "Sobre Nós" },
-  { href: "#testimonials", label: <b>Depoimentos</b> },
-  { href: "#ai-tool", label: <div style={{ display: "inline", fontWeight: 700 }}>Ferramenta AI</div> },
+  { href: "#testimonials", label: <div style={{ display: 'inline', fontWeight: 700 }}><span style={{ fontWeight: 'normal' }}>Depoimentos</span></div> },
+  { href: "#ai-tool", label: <div style={{ display: 'inline', fontWeight: 700 }}><span style={{ fontWeight: 'normal' }}>Ferramenta AI</span></div> },
 ];
 
 export function Header() {
